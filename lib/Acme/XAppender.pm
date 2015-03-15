@@ -95,7 +95,7 @@ To report bugs or request features, please use
 L<https://github.com/zoffixznet/Acme-XAppender/issues>
 
 If you can't access GitHub, you can email your request
-to C<bug-www-lipsum at rt.cpan.org>
+to C<bug-acme-xappender at rt.cpan.org>
 
 =head1 AUTHOR
 

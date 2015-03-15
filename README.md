@@ -55,7 +55,7 @@ To report bugs or request features, please use
 [https://github.com/zoffixznet/Acme-XAppender/issues](https://github.com/zoffixznet/Acme-XAppender/issues)
 
 If you can't access GitHub, you can email your request
-to `bug-www-lipsum at rt.cpan.org`
+to `bug-acme-xappender at rt.cpan.org`
 
 # AUTHOR
 
